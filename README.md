@@ -1,5 +1,11 @@
 # 三友地图—— 一款免费的管线建模，洪涝模拟工具，从参数化建模到应用的桌面软件
 
+关键词：管线建模，管线参数化建模，洪涝模拟，洪涝仿真
+
+Keywords: pipeline modeling, parametric pipeline modeling, flood simulation, flood simulation modeling
+
+[中文](./README.md) | [English](./README.en.md)
+
 ## 🔥 痛点：管线三维建模为何如此艰难？
 
 在智慧城市、地下空间管理等领域，管线三维建模已成为标配。但现实是：
