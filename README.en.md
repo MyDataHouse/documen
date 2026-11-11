@@ -151,6 +151,8 @@ Do not let tedious pipeline modeling slow down your project schedule.
 
 **👉 Technical consultation**: For any questions, online technical support is available on the official website.
 
+**👉 Contact Email**: luzhansanlvlbb@163.com
+
 **Make pipeline modeling go from a "nightmare" to something enjoyable, starting today!** 🎉
 
 ---
